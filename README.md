@@ -150,9 +150,9 @@ Total Cost: $55.00
 
 Create the classes mentioned above and then instantiate these objects from those classes
 
-* [ ] Snack
-* [ ] VendingMachine
-* [ ] Customer
+* [X] Snack
+* [X] VendingMachine
+* [X] Customer
 
 * [ ] Instantiate 2 customers
   * [ ] Jane with $45.25
